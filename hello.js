@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('Hello, World!'); console.log('Hello, World!');
+console.log('Hola, Muchachas y Muchachos!');
+console.log(' "Doth Mother know you weareth her drapes?" ');
+console.log("Coding Rocks");
 
 /*  
 Next, PLAY! 
