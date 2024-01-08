@@ -7,7 +7,7 @@ to the console (the panel on the right)
 console.log('Hello, World!'); console.log('Hello, World!');
 console.log('Hola, Muchachas y Muchachos!');
 console.log(' "Doth Mother know you weareth her drapes?" ');
-console.log("Coding Rocks");
+console.log("Coding Rocks"); console.log("Even though it's hard.")
 
 /*  
 Next, PLAY! 
